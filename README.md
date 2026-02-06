@@ -50,16 +50,15 @@ by going to Simulation ⇒ Start
 Design, Simulate and analyse the below given circuit using the following values.
 Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
-
+<img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 
 ## Output
 <img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/1fa382b5-683a-4b2b-a5bc-2fee83170e12" />
 
-
 ## Result
-Thus the experiment is verified
+Thus the experiment is simulated and verified successfully.
 
 
 
