@@ -51,8 +51,10 @@ Design, Simulate and analyse the below given circuit using the following values.
 Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
+
 ## Simulation
-<img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
+
+<img width="1862" height="795" alt="Screenshot 2026-02-06 111850" src="https://github.com/user-attachments/assets/f4aa09f5-1df1-41d6-9dd4-65e6cf4e58a9" />
 
 ## Output
 <img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/1fa382b5-683a-4b2b-a5bc-2fee83170e12" />
